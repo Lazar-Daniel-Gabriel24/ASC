@@ -1,1 +1,2 @@
 # ASC
+În cadrul acestui proiect, am implementat un simulator al "Conway's Game of Life", un joc bidimensional fără jucători, inventat de matematicianul John Horton Conway în 1970. Scopul jocului este de a simula evoluția unui sistem de celule într-o matrice, conform unor reguli bine definite de supraviețuire, deces și creare a celulelor, și este recunoscut pentru proprietatea sa de a fi Turing-complet.
